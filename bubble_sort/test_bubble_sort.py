@@ -1,4 +1,4 @@
-from bubble_sort import bubble_sort
+from bubble_sort2 import bubble_sort2
 
 def test_sorted():
     assert bubble_sort([1, 2, 3]) == [1, 2, 3]
